@@ -1,0 +1,79 @@
+
+  header  {   
+    color: white;
+  text-align: center;
+  padding: 20px; 
+                    
+  }
+  body {
+    background-image:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW80TigCA2lflbfU2kQ7oWYuS-03TW0FLeGOpprByOOm2maYqLDnfY86ysrAzRmRWzrrHDCa265GqglHbZIX0n_8P2OWW_tss86Kj0lzrII-pfLk6gdiaz_1M2XTA9CzHfcULPTRDv1VF3/s1600/Andromeda-Galaxy-Wallpaper-HD-08.jpg');
+    min-height: 200px;
+    
+  }
+  .body > h1 , h2, h3, h4, h5, p { color:whitesmoke /* Ensure all text is white in body*/
+  }
+  p {
+      
+      text-indent: 30px; /*Indentation is not easy*/
+      text-align: justify;
+    }
+  
+
+  footer {
+    background-image:url('') rgb(214, 71, 207);
+    height: 100px;
+  }
+  
+  .navbar {
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIc5YQkdOWhZT9_KAkxKMwXD7lnLTMk8ywA&s');    
+    background-size: cover;
+    padding: 10px 20px;
+
+
+}
+  .navbar-list {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style:none;
+    margin: 0;
+    width: 100%;
+
+  }
+
+  .navbar-item{
+
+    margin: 0 10px;
+    color:rgb(215, 215, 255);
+    
+  }
+
+  .navbar-link {
+    text-decoration: none ; 
+    font-size: 20 pt;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 5%;
+    padding: 5%;
+    
+}
+.navbar-link:hover {
+  color: rgb(119, 245, 119); 
+}
+
+div1{ size:100%;
+      background:#0c0044;
+      
+}
+
+footer {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/66/NASA%E2%80%99s_SLS_and_SpaceX%E2%80%99s_Falcon_9_at_Launch_Complex_39A_%26_39B_%28KSC-20220406-PH-JBP01-0001%29.jpg');
+
+  font: rgb(247, 247, 250);
+
+}
+
